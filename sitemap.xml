@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Page principale -->
     <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/</loc>
-        <lastmod>2024-12-09</lastmod>
+        <loc>https://clairvoyancemedium.github.io/snelle-en-betrouwbare-waarzeggerij-via-e-mail.github.io/</loc>
+        <lastmod>2025-01-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://clairvoyancemedium.github.io/images/voyance.jpg</image:loc>
+            <image:caption>Frederick, expert in waarzeggerij via e-mail</image:caption>
+        </image:image>
     </url>
+
+    <!-- Page des tarifs -->
     <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/tarifs</loc>
-        <lastmod>2024-12-09</lastmod>
+        <loc>https://clairvoyancemedium.github.io/snelle-en-betrouwbare-waarzeggerij-via-e-mail.github.io/tarieven</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- FAQ Page -->
+    <url>
+        <loc>https://clairvoyancemedium.github.io/snelle-en-betrouwbare-waarzeggerij-via-e-mail.github.io/faq</loc>
+        <lastmod>2025-01-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Multilangue - Anglais -->
     <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/contact</loc>
-        <lastmod>2024-12-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
+        <loc>https://clairvoyancemedium.github.io/snelle-en-betrouwbare-waarzeggerij-via-e-mail.github.io/en/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://clairvoyancemedium.github.io/snelle-en-betrouwbare-waarzeggerij-via-e-mail.github.io/en/"/>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Multilangue - Français -->
+    <url>
+        <loc>https://clairvoyancemedium.github.io/snelle-en-betrouwbare-waarzeggerij-via-e-mail.github.io/fr/</loc>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://clairvoyancemedium.github.io/snelle-en-betrouwbare-waarzeggerij-via-e-mail.github.io/fr/"/>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
 </urlset>
